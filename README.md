@@ -1,6 +1,6 @@
 # A Differential Machine Learning Approach for Calculating Deltas under the Heston Model
 
-Project by: Elain Balderas, Nina McClure, Akash Yadav 
+Project by: Akash Yadav, Elain Balderas, Nina McClure. 
 
 ## Abstract 
 
